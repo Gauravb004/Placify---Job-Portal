@@ -20,7 +20,7 @@ Placify provides a clean and structured platform where students can find all pla
 Frontend:HTML,CSS,JavaScript
 
 Backend:Node.js,Express.js,Java (for backend logic / alternative implementation)
-Database:MongoDB,local storage.
+Database:MongoDB,local storage..
 
 ⚙️ Backend Details
 
